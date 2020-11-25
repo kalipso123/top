@@ -1,0 +1,163 @@
+@charset "UTF-8";
+
+body{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+}
+
+
+.header{
+  width: 100%;
+  height: 900px;
+  background-color: aqua;
+  background-image: radial-gradient(circle 657px at center, #ffffff 0%, #ccdef0 100%);
+}
+
+.container{
+  width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-wrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 70px;
+  margin-bottom: 90px;
+}
+
+
+.logo {
+  font-family: Montserrat - black;
+  font-size: 28px;
+  font-weight: 900;
+  line-height: 1;
+  color: #000000;
+}
+
+.logo span {
+  color: #5abb33;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav__item{
+  margin-right: 30px;
+}
+
+.nav__item:last-child{
+  margin-right: 0;
+}
+
+.nav__link{
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.nav__link:hover{
+  text-decoration: overline;
+}
+
+.header-content{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header-desh{
+  width: 500px;
+  padding-top: 90px;
+}
+.header-photo{
+  width: 670px;
+}
+
+.heder__title{
+color: #000000;
+font-size: 900;
+font-weight: 48px;
+line-height: 1.3;
+margin: 0;
+margin-bottom: 35px;
+}
+
+.header_text{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.7;
+  margin-bottom: 35px;
+
+}
+
+.header__btn{
+  text-align: center;
+  display: inline-block;
+  height: 64px;
+  padding-left: 34px;
+  padding-right: 45px;
+  border-radius: 40px;
+  background-color: khaki;
+  background-image: linear-gradient(to top, #ffcc00 0%, #fadb60 100%);
+
+  color: #000000;
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration: none;
+  line-height: 65px;
+  text-align: center;
+}
+
+.header_icon{
+  margin-right: 30px;
+}
+
+.header_icon-cocial{
+  font-size: 27px;
+  color: #34383c;
+  text-decoration: none;
+  margin-right: 30px;
+}
+
+.header_icon-cocial:last-child{
+  margin-right: 0;
+}
+
+.header_icon-cocial:hover{
+  opacity: 0.8;
+}
+
+.footer{
+  width: 100%;
+  height: 114px;
+  background-color: #232232;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  line-height: 2;
+  font-weight: 500;
+}
+
+.footer::before{
+  content: '';
+  display: table;
+}
+
+.footer a {
+  color: #ffcc00;
+  text-decoration: none;
+}
