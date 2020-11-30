@@ -1,0 +1,1133 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+.body_1 {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Titillium Web', sans-serif;
+    max-width: 100%;
+    max-height: 100%;
+}
+.conteiner {
+    background-color: #87509c;
+    padding-bottom: 137px;
+    padding-top: 1px;
+}
+.ul_class {
+    list-style: none;
+    display: flex;
+    color: #ffffff;
+    text-transform: uppercase;
+    
+}
+.menu_1 {
+    color: ivory;
+    align-items: center;
+    font-family: "Titillium Web";
+    font-size: 16px;
+    font-weight: 400px;
+    margin-left: 60px;
+    padding-top: 50px;
+    
+    
+}
+.logo {
+  max-width: 100%;
+  padding-left: 212px;
+  padding-top: 27px;
+  text-decoration: none;
+  
+}
+.menu_2 {
+    width: 100%;
+    height: 100%;
+    padding-left: 800px;
+    color: ivory;
+    padding-top: 50px;
+    text-decoration: none;
+    
+}
+.text_1 {
+    text-align: center;
+    padding-top: 239px;
+    height: 88px;
+    color: #f7f3ea;
+    font-family: "Titillium Web";
+    font-size: 42px;
+    font-weight: 700;
+}
+a.button1 {
+    position: relative;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: -1px -1px #000;
+    user-select: none;
+    padding: .8em 5em;
+    outline: none;
+    background-color: #000;
+    background-image: linear-gradient(45deg, rgba(255,255,255,.0) 30%, rgba(255,255,255,.8), rgba(255,255,255,.0) 70%), radial-gradient(190% 100% at 50% 0%, rgba(255,255,255,.7) 0%, rgba(255,255,255,.5) 50%, rgba(0,0,0,0) 50%);
+    background-repeat: no-repeat;
+    background-size: 200% 100%, auto;
+    background-position: 200% 0, 0 0;
+    box-shadow: rgba(0,0,0,.3) 0 2px 5px;
+  } 
+  a.button1:active {
+    top: 1px;
+    box-shadow: none;
+   
+  }
+  a.button1:hover {
+    transition: .5s linear;
+    background-position: -200% 0, 0 0;
+    
+  }
+  .knopka {
+      text-align: center;
+      padding-top: 82px;
+  }
+.h2_paragaf {
+    padding-left: 20px;
+    padding-top: 119px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 29.91px;
+    text-align: center;
+    text-transform: uppercase;
+}
+    /* CONTEINER_2 */
+
+
+ .coneiner2 {
+    background-color: #17c2a4;
+    padding-top: 10px;
+    padding-bottom: 128px;
+    width: 1865px;
+ }
+ .line1 {
+    align-items: center;
+    padding-left: 895px;
+    
+} 
+.text_2 {
+    text-align: center;
+    background-color:  #17c2a4;;
+}
+.img_content {
+    padding-top: 78px;
+}
+.logo_2 {
+    padding-right: 174px;
+    padding-left: 430px;
+}
+.logo_3 {
+    padding-right: 205px;
+}
+.logo_4 {
+    padding-right: 250px;
+}
+.text_blok_2 {
+    display: flex;
+    padding-top: 68px;
+    width: 116px;
+    height: 18px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+.text_blok1 {
+    padding-right: 182px;
+    padding-left: 420px;
+}
+.text_blok2 {
+    padding-right: 182px;
+}
+.text_blok3 {
+    padding-right: 200px;
+    padding-left: 55px;
+}
+.text_blok4 {
+    width: 177px;
+}
+.text_block_p {
+    display: flex;
+    width: 2000px;
+    padding-top: 27px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 20px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.32px;
+    line-height: normal;
+}
+.blok_p_1 {
+    padding-left: 380px;
+    padding-right: 97px;
+}
+.blok_p_2 {
+    padding-right: 165px;
+
+}
+.blok_p_4 {
+    padding-left: 170px;
+}
+/* conteiner_3  */
+.conteiner_3 {
+    width: 1865px;
+    height: 1050px;
+    background-color: #e7f1f8;
+}
+
+.conteiner_blok_3 {
+    margin-bottom: 21px;
+    text-align: center;
+    padding-top: 119px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 41px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 4px;
+    line-height: normal;
+}
+.line3 {
+ padding-left: 890px;
+ padding-bottom: 25px;
+ margin-bottom: 0px;
+}
+.h2_123 {
+    text-align: center;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 19px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+.img_top {
+    padding-left: 400px;
+    padding-top: 78px;
+}
+.img_top_12 {
+  padding-right: 85px;
+}
+.p_text {
+    display: flex;
+    padding-left: 404px;
+}
+.p_text_code {
+    padding-right: 120px;
+    width: 194px;
+    color: #27283d;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.p_text_code_2 {
+    width: 194px;
+    color: #27283d;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.p_text_code_3 {
+    padding-left: 85px;
+    color: #27283d;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.p_text_code_4 {
+    padding-left: 135px;
+    color: #27283d;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.p_text2 {
+    display: flex;
+    padding-left: 423px;
+    padding-bottom: 24px;
+}
+.text_code_1 {
+    padding-right: 131px;
+    width: 156px;
+    color: #30bae7;
+    font-family: "Titillium Web";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.text_code_2 {
+    width: 156px;
+    color: #30bae7;
+    font-family: "Titillium Web";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.text_code_3 {
+    padding-left: 128px;
+    width: 156px;
+    color: #30bae7;
+    font-family: "Titillium Web";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.text_code_4 {
+    padding-left: 135px;
+    width: 156px;
+    color: #30bae7;
+    font-family: "Titillium Web";
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.text_lorem {
+    padding-bottom: 30px;
+    display: flex;
+    padding-left: 410px;
+}
+.text_lorem_1 {
+    padding-right: 95px;
+    width: 196px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.20px;
+    line-height: normal;
+}
+.text_lorem_2 {
+    width: 197px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.20px;
+    line-height: normal;
+}
+.text_lorem_3 {
+    padding-left: 65px;
+    width: 230px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.20px;
+    line-height: normal;
+}
+.text_lorem_4 {
+    padding-left: 87px;
+    width: 196px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.31px;
+    line-height: normal;
+}
+.img_cartinks {
+    padding-left: 420px;
+}
+.img_cartinks_2 {
+    padding-left: 147px;
+}
+.img_cartinks_3 {
+    padding-left: 147px;
+}
+.img_cartinks_4 {
+    padding-left: 147px;
+}
+/* conteiner_4 */
+.conteiner_4 {
+    width: 1865px;
+    height: 800px;
+    background-color: #ffffff;
+}
+.text_conteiner_4 {
+    text-align: center;
+    padding-top: 117px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 29.91px;
+    font-style: normal;
+    letter-spacing: 4px;
+    line-height: normal;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.img_conteiner_4 {
+    padding-left: 886px;
+}
+.h4_conteiner_4 {
+    text-align: center;
+    height: 45px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    font-style: normal;
+    letter-spacing: 0.20px;
+}
+.img_2_conteiner_4 {
+    padding-top: 80px;
+    text-align: center;
+}
+.p_nuz {
+    display: flex;
+    padding-left: 231px;
+}
+.nuz_1 {
+    padding-left: 215px;
+    width: 150px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+.nuz_2 {
+    padding-left: 137px;
+    width: 150px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+.nuz_3 {
+    padding-left: 105px;
+    width: 190px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+.nuz_4 {
+    padding-left: 140px;
+    width: 150px;
+    color: #3c4761;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+
+/* .conteiner_5 */
+
+.conteiner_5 {
+    width: 1865px;
+    height: 1523px;
+    background-color: #ffdd99;
+}
+.conteiner_5_text {
+    padding-left: 60px;
+    text-align: center;
+    padding-top: 120px;
+    color: #393939;
+    font-family: "Titillium Web";
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 29.91px;
+    font-style: normal;
+    letter-spacing: 4px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.conteiner_5_text_2 {
+    padding-left: 900px;
+}
+.conteiner_5_text_3 {
+    text-align: center;
+    padding-top: 23px;
+    color: #393939;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+.li_conteiner_5 {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    padding-left: 770px;
+}
+.conteiner_li_1 {
+    padding-left: 29px;
+    padding-top: 10px;
+    background-color: #ffffff;
+    width: 60px;
+    height: 37px;
+    color: #393939;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 19.5px;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+.conteiner_5_img_2 {
+    display: flex;
+    padding-top: 80px;
+    padding-left: 420px;
+}
+.conteiner_nea {
+    display: flex;
+    padding-left: 300px;
+}
+.text_conteiner_5_text_1 {
+    padding-left: 250px;
+    color: #393939;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 19.5px;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+
+.text_conteiner_5_text_2 {
+    padding-left: 350px;
+    color: #393939;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 19.5px;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+.text_conteiner_5_text_code {
+  padding-top: 100px;
+  padding-left: 422px;
+}
+.conteiner_nea_2 {
+    display: flex;
+    padding-left: 334px;
+}
+.nea_1 {
+    padding-left: 265px;
+    color: #393939;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 19.5px;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+.nea_2 {
+    padding-left: 350px;
+    color: #393939;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 19.5px;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+a.button19 {
+    display: inline-block;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px rgba(0,0,0,.5);
+    user-select: none;
+    padding: .7em 1.5em;
+    border: 1px solid rgb(80,32,0);
+    border-radius: 5px;
+    outline: none;
+    background: rgb(147,80,36) linear-gradient(rgb(106,58,26), rgb(147,80,36) 80%);
+    box-shadow:
+     0 6px rgb(86,38,6),
+     0 3px 15px rgba(0,0,0,.4),
+     inset 0 1px rgba(255,255,255,.3),
+     inset 0 0 3px rgba(255,255,255,.5);
+    transition: .2s;
+  } 
+  .button19:hover {
+    background: rgb(167,91,41) linear-gradient(rgb(126,69,31), rgb(167,91,41) 80%);
+  }
+  .button19:active {
+    background: rgb(120,63,25) linear-gradient(rgb(120,63,25) 20%, rgb(167,91,41));
+    box-shadow:
+     0 2px rgb(86,38,6),
+     0 1px 6px rgba(0,0,0,.4),
+     inset 0 1px rgba(255,255,255,.3),
+     inset 0 0 3px rgba(255,255,255,.5);
+    -webkit-transform: translate(0, 4px);
+    transform: translate(0, 4px);
+  }
+  .knopka_conteinera_5 {
+      padding-left: 874px;
+      padding-top: 110px;
+  }
+  /* conteiner_6 */
+.conteiner_6 {
+    width: 1865px;
+    height: 1095px;
+    background-color: #d74680;
+    padding-top: 10px;
+}
+.conteiner_6_text_1 {
+    text-align: center;
+    padding-left: 120px;
+    padding-top: 119px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 29.91px;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 4px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.conteiner_img {
+    padding-left: 940px;
+}
+.text_conteiner {
+    padding-left: 105px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+.p_conteiner_6 {
+    padding-left: 100px;
+    display: flex;   
+}
+.content_11 {
+    width: 96px;
+    height: 96px;
+    padding-left: 171px;
+    padding-right: 48px;
+    padding-top: 18px;
+}
+.klac_conteiner_1 {
+    padding-bottom: 20px;
+    width: 800px;
+    height: 85px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 21px;
+    font-style: italic;
+    letter-spacing: normal;
+    line-height: 31.2px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.35px;
+    line-height: normal;
+}
+.klac_conteiner_2 {
+    padding-top: 28px; 
+    width: 200px;
+    height: 18px;
+    color: #ffffff;
+     font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+.klac_conteiner_3 {
+    padding-top: 30px;
+    width: 131px;
+    height: 15px;
+    color: #ffdd99;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+.img_pliz_13 {
+    width: 96px;
+    height: 96px;
+    padding-right: 48px;
+    padding-top: 17px;
+}
+.pliz_1 {
+    width: 350px;
+    height: 83px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 21px;
+    font-style: italic;
+    letter-spacing: normal;
+    line-height: 31.2px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.35px;
+    line-height: normal;
+}
+.pliz_2 {
+    width: 159px;
+    height: 17px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 24px;
+     font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+.pliz_span {
+    width: 170px;
+    height: 19px;
+    color: #ffdd99;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+.coneiner_6_2 {
+    padding-top: 147px;
+    padding-left: 270px;
+    display: flex;
+}
+.img_conteiner_2 {
+    width: 96px;
+    height: 96px;
+}
+.conteiner_piza {
+    padding-left: 48px;
+    width: 350px;
+    height: 84px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 21px;
+    font-style: italic;
+    letter-spacing: normal;
+    line-height: 31.2px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.35px;
+    line-height: normal;
+}
+.pliz_span_2 {
+    width: 194px;
+    height: 17px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+.span_2_span {
+    width: 205px;
+    height: 19px;
+    color: #ffdd99;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+.conteiner_6_3 {
+    width: 96px;
+    height: 96px;
+    padding-left: 450px;
+    padding-right: 48px;
+}
+.conteiner_paza {
+    width: 368px;
+    height: 84px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 21px;
+    font-style: italic;
+    letter-spacing: normal;
+    line-height: 31.2px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.35px;
+    line-height: normal;
+}
+.span_cover_1 {
+    width: 149px;
+    height: 18px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+.span_paza {
+    width: 183px;
+    height: 15px;
+    color: #ffdd99;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: left;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+
+    /* conteiner_7 */
+
+.conteiner_7 {
+    padding-top: 1px;
+    width: 1865px;   
+    height: 1020px;
+    background-color: #3c5499;
+}
+.conteiner_7_1 {
+    text-align: center;
+    padding-top: 120px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 40px;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 29.91px;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 4px;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.imgs_conteiner_7_1 {
+    padding-left: 887px;
+}
+.conteiner_h4 {
+    padding-left: 550px;
+    width: 782px;
+    height: 19px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 26px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.36px;
+    line-height: normal;
+}
+/* email/name */
+.transparent {
+    padding-left: 500px;
+    padding-top: 76px;
+    text-decoration: none;
+    color: #ffffff;
+    display: flex;
+}
+.input_text_1 {
+    font-weight: 500;
+    font-size: 20px;
+    width: 414px;
+    height: 56px;
+    background-color: #273a71;
+    text-decoration: none;
+    color: #ffffff;
+    outline: none;
+    border: none;
+    margin-right: 51px;
+
+}
+.input_text_2 {
+    font-weight: 500;
+    font-size: 20px;
+    width: 414px;
+    height: 56px;
+    background-color: #273a71;
+    text-decoration: none;
+    padding-right: 32px;
+    outline: none;
+    border: none;
+    color: white;
+}
+.top_text_1 {
+    font-weight: 500;
+    font-size: 20px;
+    width: 915px;
+    height: 200px;
+    background-color: #273a71;
+    margin-left: 500px;
+    margin-top: 27px;
+    outline: none;
+    border: none;
+    color: white;
+}
+::-webkit-input-placeholder { 
+    width: 114px;
+    height: 18px;
+    color: #ffffff;
+    font-family: "Titillium Web";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 18px;
+    text-align: left;
+}
+a.button7 {
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    padding: .9em 5em calc(.8em + 3px);
+    border-radius: 3px;
+    background: rgb(64, 134, 199);
+    box-shadow: 0 -3px rgb(53, 163, 167) inset;
+    transition: 0.2s;
+  } 
+  a.button7:hover { background: rgb(53, 167, 110); }
+  a.button7:active {
+    background: #30bae7;
+    box-shadow: 0 3px rgb(33,147,90) inset;
+  }
+  .knopka_ogpravut {
+      text-align: center;
+      padding-top: 59px;
+  }
+  /* podval */
+  .podval_1 {
+    width: 1615px;
+    height: 115px;
+    background-color: #344b8e;
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    padding-left: 251px;
+  }
+  .podval_li_1 {
+    padding-left: 90px;
+    padding-top: 48px;
+    color: #ffffff;
+    font-family: "Titillium Web - Semi Bold";
+    font-size: 24px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 29.91px;
+    text-align: center;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+    text-decoration: blink;
+}
+.bublik_hi {
+    font-size: 24px;
+    font-weight: 400;
+    padding-left: 90px;
+    padding-top: 41px;
+    color: #30bae7;
+    font-style: normal;
+    letter-spacing: 0.48px;
+    line-height: normal;
+}
+
+
